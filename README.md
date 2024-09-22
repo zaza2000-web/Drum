@@ -12,3 +12,6 @@ In this project, I used native JavaScript to create simple logic for the website
 And that’s it! The implementation is straightforward. I decided to practice my skills and share the results with you.
 
 Feel free to explore the project and provide any feedback!
+
+
+# https://zaza2000-web.github.io/Drum/
